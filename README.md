@@ -14,7 +14,7 @@ Welcome to **SkillBridge**, a smart career recommendation platform that helps st
 - 💬 Chatbot (SkillBot) for career questions
 - 📖 Career Library with filters
 - 🧾 Resource Hub (PDFs, Videos, Courses)
-- 🔐 Admin Panel *(optional)*
+- 🔐 Admin Panel
 
 ---
 
